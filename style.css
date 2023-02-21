@@ -1,0 +1,50 @@
+
+*
+{
+box-sizing:border-box;
+}
+
+.container{
+    
+    margin-top:100px;
+    margin-left:400px;
+    
+    border:solid 5px red;
+    width:50%;
+    height:500px;
+    background-color: green;
+}
+.abc
+{
+    width:400px;
+    height:35px;
+}
+.aa
+{
+    margin-top:100px;
+}
+.ab{
+
+width:50px;
+    height:35px;
+}
+.ac{
+    width:70px;
+    height:30px;
+    margin-top:30px;
+    margin-left:20px;
+    background-color:mediumblue;
+     
+}
+.row
+{
+    margin-top:50px;
+    margin-left:20px;
+}
+h1{
+    background-color:red;
+}
+body{
+    background-color: cornflowerblue;
+    
+}
